@@ -1,0 +1,10 @@
+name: InstanceAccess
+
+version: '${project.version}'
+api-version: '${plugin.api.version}'
+
+authors: [ YouKlike ]
+description: '${project.description}'
+
+main: com.cookie.InstanceAccess
+
